@@ -10,4 +10,4 @@ doi: '10.1609/aaai.v34i01.5374'
 index: '1'
 ---
 <u><b>Shivang Chopra</b></u>, Ramit Sawhney, Puneet Mathur, Rajiv Ratn Shah <br>
-AAAI Conference on Artificial Intelligence, vol. 34 (01), pp. 386-393, 2020.".
+AAAI Conference on Artificial Intelligence, vol. 34 (01), pp. 386-393, 2020.

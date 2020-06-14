@@ -10,4 +10,4 @@ doi: '10.1007/978-3-030-45442-5_33'
 index: '2'
 ---
 Puneet Mathur, Ramit Sawhney, <u><b>Shivang Chopra</b></u>, Maitree Leekha, Rajiv Ratn Shah  <br>
-European Conference on Information Retrieval, pp. 265-271, 2020.".
+European Conference on Information Retrieval, pp. 265-271, 2020.
