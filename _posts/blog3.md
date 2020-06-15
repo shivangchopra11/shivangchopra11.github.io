@@ -1,11 +1,12 @@
 ---
 title: 'Using ARCore and Unity3D to Draw Lines in Augmented Reality'
 date: 2018-09-10
-permalink: https://heartbeat.fritz.ai/the-subtle-art-of-making-lines-in-augmented-reality-using-arcore-and-unity3d-e26718dffa03
+permalink: /the-subtle-art-of-making-lines-in-augmented-reality-using-arcore-and-unity3d-e26718dffa03
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Augmented Rality
+  - Android
+  - ARCore
+  - Unity3D
 ---
 
 A few months back, as I was browsing through some fascinating projects on Augmented Reality, I came across an extremely intriguing project, which was one of the most artistic applications of AR I could think of.
