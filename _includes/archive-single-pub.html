@@ -1,0 +1,81 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+<!-- list instead of grid -->
+
+<div class="{{ include.type | default: "list" }}__item" >
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      <ol>
+        <li style="font-weight: 600; font-size:14pt" value="{{post.index}}" >
+          <a class="archive__item-title" itemprop="headline" style="color:black">
+              <span style="font-weight: 600; font-size:14pt">
+                {{ post.title }}
+                <!-- ---xxx--- -->
+              </span>
+          </a>
+        </li>
+          <!-- {{ post.content | markdownify }} -->
+          <p class="archive__item-excerpt">
+            <span style="font-weight: 450; margin-bottom:0; margin-top:0px; font-size:13pt; line-height:30px">
+              {{ post.authors }}
+            </span>
+            <br>
+            <span style="color: gray;margin-bottom:-20px; margin-top:10px; font-size:13pt; line-height:30px">
+              Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.
+            </span>
+          </p>
+            {% if post.paper_link %}
+              <a href= "{{post.paper_link}}" target="_blank" style="text-decoration: none; font-size:12pt; margin-top: 0; margin-bottom:0px; line-height:10px">
+                <img src="http://gaurav1302.github.io/images/pdf.png" alt="PDF" height="25" width="20">&nbsp;<span>Get&nbsp;PDF</span>
+              </a>
+              &nbsp;
+            {% endif %}
+            {% if post.doi %}
+              <a href= "{{post.doi_link}}" target="_blank" style="text-decoration: none; font-size:12pt; margin-bottom:0px; line-height:10px">
+                <img src="http://gaurav1302.github.io/images/doi.png" alt="DOI" height="25" width="25">&nbsp;<span>{{post.doi}}</span>
+              </a>
+              &nbsp;
+            {% endif %}
+            {% if post.code_link %}
+              <a href= "{{post.code_link}}" target="_blank" style="text-decoration: none; font-size:12pt; margin-bottom:0px; line-height:10px">
+                <img src="http://gaurav1302.github.io/images/code.png" alt="CODE" height="17" width="25">&nbsp;<span>Get&nbsp;CODE</span>
+              </a>
+              &nbsp;
+            {% endif %}
+            {% if post.ppt %}
+              <a href= "{{post.ppt}}" target="_blank" style="text-decoration: none; font-size:12pt; margin-bottom:0px; line-height:10px">
+                <img src="http://gaurav1302.github.io/images/ppt.png" alt="PPT" height="35" width="25">&nbsp;<span>View&nbsp;Presentation</span>
+              </a>
+              &nbsp;
+            {% endif %}
+            <br><br>
+            <!-- <span class="authors">
+                <a href="index.html">Brian A. Smith</a>,&nbsp;&nbsp;
+                <a href="http://www.cs.columbia.edu/~nayar/" target="_blank">Shree K. Nayar</a>
+            </span>
+            <span class="venue">
+                <a href="https://chi2018.acm.org/" target="_blank">Proceedings of CHI 2018</a><small>[Acceptance Rate: 25.7%]</small>
+            </span>
+            <span class="pdf_link">
+                <a href="publications/rad.html" target="_blank"><img src="img/icons/pdf.png" alt="PDF"><span>Get&nbsp;PDF</span></a>
+            </span>
+            <span class="project_link">
+            	<a href="projects/rad.html"><img src="img/icons/research_small.png" alt="PDF"><span>Project&nbsp;Page</span></a>
+            </span>
+            <span class="dl_link">
+            	<a href="https://dl.acm.org/citation.cfm?id=3174090" target="_blank"><img src="img/icons/acm.png" alt="ACM Logo"><span>ACM&nbsp;DL&nbsp;Page</span></a>
+            </span> -->
+        <!-- </li> -->
+      </ol>
+    </article>
+</div>
