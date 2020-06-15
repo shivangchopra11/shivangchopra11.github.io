@@ -3,7 +3,7 @@ title: 'Hindi-English Hate Speech Detection: Author Profiling, Debiasing, and Pr
 authors: <u><b>Shivang Chopra</b></u>, Ramit Sawhney, Puneet Mathur, Rajiv Ratn Shah
 venue: 'AAAI Conference on Artificial Intelligence, 2020'
 vol_date: 'vol. 34 (01), pp. 386-393, 2020'
-paper_link: 'https://www.aaai.org/ojs/index.php/AAAI/article/view/5374/5230'
+paper_link: 'http://shivangchopra11.github.io/files/Hinglish_AAAI_Cam_Ready.pdf'
 doi_link: 'https://doi.org/10.1609/aaai.v34i01.5374'
 ppt: 'http://shivangchopra11.github.io/files/AAAIHinglish.pdf'
 doi: '10.1609/aaai.v34i01.5374'
