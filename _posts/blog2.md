@@ -1,0 +1,14 @@
+---
+title: 'Introduction to Motion Tracking in ARCore…'
+date: 2018-07-23
+permalink: https://medium.com/coding-blocks/introduction-to-motion-tracking-in-arcore-f3e584ce0ba0
+tags:
+  - Augmented Rality
+  - Android
+  - ARCore
+  - Unity3D
+---
+
+In the app we will be building, we will not be anchoring the objects to a plane as we are just focussing on the motion tracking component of ARCore and not the complete environmental understanding.
+
+---

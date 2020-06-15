@@ -1,0 +1,13 @@
+---
+title: 'ARCore: Diving into the world of Augmented Reality'
+date: 2018-06-29
+permalink: https://medium.com/coding-blocks/arcore-diving-into-the-world-of-augmented-reality-31ba228d8530
+tags:
+  - Augmented Rality
+  - Android
+  - ARCore
+  - Unity3D
+---
+
+Huge advances in the field of Computer Vision has paved the path for one of the most exciting fields of Mobile-Platform based Augmented Reality. Apple’s ARKit and Google’s ARCore are one of the finest frameworks available to develop Augmented Reality apps. This short tutorial will be covering the basic working of Google’s ARCore and it’s integration with Unity Game Engine.
+------
