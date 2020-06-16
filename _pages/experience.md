@@ -34,8 +34,8 @@ redirect_from:
     - Implemented Hadoop Clusters from scratch, followed by setting up Ambari clusters and building applications on Hive, Sqoop, and Kafka.
 
 ## Teaching
-1. Instructor and Mentor, <b>UpGrad</b>
+1. Instructor and Mentor, <b>UpGrad</b>   
   	- Taught hands-on course on Data Science.
   	- Trained more than 400 people ranging from college to industry professionals from F500 companies.
-2. Teaching Assistant, <b>Coding Blocks</b>
+2. Teaching Assistant, <b>Coding Blocks</b>  
     - Worked as a teaching assistant for the Machine Learning course offered by the company.
