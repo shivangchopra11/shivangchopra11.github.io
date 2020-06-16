@@ -1,5 +1,4 @@
 {% include base_path %}
-{% include medium_path %}
 
 {% if post.teaser %}
   {% capture teaser %}{{ post.teaser }}{% endcapture %}
@@ -31,7 +30,7 @@
       <!-- {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url }}"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %} -->
-        <a href="{{ medium_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ post.url }}" target="_blank">{{ title }}</a>
       <!-- {% endif %} -->
     </h2>
 
