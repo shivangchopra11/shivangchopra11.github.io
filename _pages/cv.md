@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://shivangchopra11.github.io//files/cv.pdf" width="750px" height="2000px" />
+<embed src="https://shivangchopra11.github.io//files/cv.pdf" width="750px" height="1000px" />
