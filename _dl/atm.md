@@ -1,6 +1,6 @@
 ---
 title: "ATM Surveillance System"
-excerpt: "ATM Surveillance system for banks <br/><img src='https://github.com/shivangchopra11/InfyHack/blob/master/Demo.gif'>"
+excerpt: "ATM Surveillance system for banks <br/><img src='https://github.com/shivangchopra11/InfyHack/blob/master/Demo.gif'  width="500" height="300" >"
 collection: portfolio
 ---
 
