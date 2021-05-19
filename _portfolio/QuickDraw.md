@@ -4,7 +4,6 @@ excerpt: "Can a neural network learn to recognize doodling?<br/><img src='/image
 collection: portfolio
 ---
 
-# QuickDraw
 Can a neural network learn to recognize doodling? [Quick, Draw](https://quickdraw.withgoogle.com/)
 
 ### Description
