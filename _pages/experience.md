@@ -27,10 +27,12 @@ redirect_from:
     - **Advisor**: [Dr. Anil Singh Parihar](http://www.dtu.ac.in/Web/Departments/CSE/faculty/anilsparihar.php)
 
 ## Product
-1. Software Development Intern, <b>CodeNation</b>
+1. Software Development Engineer, <b>CodeNation Innovation Labs</b>
+	  - Developing an engaging and interactive [web application](https://education.devfactory.com/) for the students of grade 1-5.
+2. Software Development Intern, <b>CodeNation Innovation Labs</b>
 	  - Team CodeGraph.  
     - Worked on the code analysis platform offered by the company.
-2. Big Data Intern, <b>Hewlett Packard Enterprise</b>
+3. Big Data Intern, <b>Hewlett Packard Enterprise</b>
     - Implemented Hadoop Clusters from scratch, followed by setting up Ambari clusters and building applications on Hive, Sqoop, and Kafka.
 
 ## Teaching
