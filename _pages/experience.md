@@ -21,10 +21,10 @@ redirect_from:
     - **Mentor**: [Dr. Venkat Padmanabhan](https://www.microsoft.com/en-us/research/people/padmanab/)
 3. Research Intern, <b>University of Texas, Dallas</b> &nbsp; &nbsp; <br>
 	  - Worked on data discovery using Active Learning.
-    - **Mentor**: [Dr. Rishabh Iyer](https://sites.google.com/view/rishabhiyer/)
+    - **Advisor**: [Dr. Rishabh Iyer](https://sites.google.com/view/rishabhiyer/)
 4. Research Intern, <b>University of Pennsylvania</b> &nbsp; &nbsp; <br>
 	  - Worked on cancer-causing gene detection.
-    - **Mentor**: [Dr. Robert Faryabi](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8846637)
+    - **Advisor**: [Dr. Robert Faryabi](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8846637)
 5. Remote Research Intern, <b>IBM Research Lab, India</b> &nbsp; &nbsp; <br>
 	  - Worked on removing explicit content from videos.
     - **Mentors**: [Nishtha Madaan](https://researcher.watson.ibm.com/researcher/view.php?person=in-nishthamadaan), [Sameep Mehta](https://researcher.watson.ibm.com/researcher/view.php?person=in-sameepmehta)
