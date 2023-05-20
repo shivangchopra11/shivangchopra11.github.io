@@ -19,6 +19,7 @@ In the past have worked as a Research Intern at [CARAML Lab, UT Dallas](https://
 
 News
 ======
+* **May 2023**: Started working as an Applied Scientist Intern at Amazon, Seattle.
 * **April 2023**: Full paper titled "HyWay: Enabling Unstructured Conversations in the New Hybrid World" accepted at [UbiComp 2023](https://www.ubicomp.org/ubicomp-iswc-2023/cfp/imwut_papers/)
 * **April 2023**: Workshop paper titled "Symbiotic Artificial Intelligence: Order Picking and Ambient Sensing" accepted at the [Ambient AI Workshop](https://sites.google.com/view/ambientaiicassp2023) in ICASSP 2023.
 * **August 2022**: Started my Master's in Computer Science at Georgia Institute of Technology.
