@@ -10,17 +10,21 @@ redirect_from:
 
 Hi! I am Shivang Chopra, a graduate student at [Georgia Institute of Technology](https://www.gatech.edu/), pursuing masters in Computer Science with a specialization in Machine Learning. 
 
-Before joining GaTech, I was working as a Research Intern at Microsoft Research Lab, India under the supervision of [Dr. Venkat Padmanabhan](https://www.microsoft.com/en-us/research/people/padmanab). 
+Currently, I am working as a Computer Vision Research Intern at [Sony R&D Center, Switzerland](https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/) in the Advanced Sensors & Modelling Group. Over the summer of 2023, I interned at Amazon Science in the [Amazon Selection and Catalog Systems](https://www.amazon.jobs/en/teams/ascs) where I worked on a ranking system for newly onboarded products on Amazon.com. 
 
-My primary research interests span the domains of **Theoritical Machine Learning**, **Computer Vision**, and **Natural Language Processing**. I am also fascinated by Augmented Reality based applications and games. 
+Before joining GaTech, I was working as a Research Intern at [Microsoft Research Lab, India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) under the supervision of [Dr. Venkat Padmanabhan](https://www.microsoft.com/en-us/research/people/padmanab). At MSRI, I was working on [Project HyWay](https://www.microsoft.com/en-us/research/project/hyway/), a Computer Vision-based system which enables interaction between people in hybrid workspaces.
+
+My primary research interests span the domains of **Computer Vision**, **Theoritical Machine Learning**, and **Natural Language Processing**. I am also fascinated by Augmented Reality based applications and games. 
 
 In the past have worked as a Research Intern at [CARAML Lab, UT Dallas](https://www.caraml-lab.com/) under the guidance of [Dr. Rishabh Iyer](https://sites.google.com/view/rishabhiyer/home). I have also worked as a Research Intern at [IBM Research Lab India](https://www.research.ibm.com/labs/india/) under the mentorship of [Dr. Sameep Mehta](https://researcher.watson.ibm.com/researcher/view.php?person=in-sameepmehta), at [MIDAS Lab, IIIT Delhi](http://midas.iiitd.edu.in/) under the guidance of [Dr. Rajiv Ratn Shah](https://www.iiitd.ac.in/rajivratn) and at  [IIT Delhi](https://home.iitd.ac.in/) under the guidance of [Dr. Chetan Arora](https://www.cse.iitd.ac.in/~chetan/).
 
 
 News
 ======
+* **Sept 2023**: Started working as a Computer Vision Research Intern at Sony R&D Lab in Zurich, Switzerland.
+* **Aug 2023**: Full paper titled "Learning to Discern: Imitating Heterogeneous Human Demonstrations with Preference and Representation Learning" accepted at [CORL 2023](https://corl2023.org/).
 * **May 2023**: Started working as an Applied Scientist Intern at Amazon, Seattle.
-* **April 2023**: Full paper titled "HyWay: Enabling Unstructured Conversations in the New Hybrid World" accepted at [UbiComp 2023](https://www.ubicomp.org/ubicomp-iswc-2023/cfp/imwut_papers/)
+* **April 2023**: Full paper titled "HyWay: Enabling Unstructured Conversations in the New Hybrid World" accepted at [UbiComp 2023](https://www.ubicomp.org/ubicomp-iswc-2023/cfp/imwut_papers/).
 * **April 2023**: Workshop paper titled "Symbiotic Artificial Intelligence: Order Picking and Ambient Sensing" accepted at the [Ambient AI Workshop](https://sites.google.com/view/ambientaiicassp2023) in ICASSP 2023.
 * **August 2022**: Started my Master's in Computer Science at Georgia Institute of Technology.
 * **July 2022**: Workshop paper titled "Active Data Discovery: Mining Unknown Data using Submodular Information Measures" accepted at the [Real World ML Workshop](https://realworldml.github.io/) in ICLM 2022.
