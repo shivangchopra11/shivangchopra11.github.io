@@ -7,7 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shivang Chopra - MSCS @ Georgia Tech"
+title                    : "Shivang Chopra"
+designation              : "MSCS @ Georgia Tech"
 title_separator          : "-"
 name                     : &name "Shivang Chopra"
 description              : &description "Homepage: Shivang Chopra"
