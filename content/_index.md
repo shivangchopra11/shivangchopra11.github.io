@@ -326,16 +326,16 @@ sections:
       subtitle:
       # text: |-
       #   You can reach me at lize (dot) alberts @ cs.ox.ac.uk
-      email: You can reach me at lize (dot) alberts @ cs.ox.ac.uk
+      email: You can reach me at shivangchopra11[at]gatech[dot]edu
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: Department of Computer Science, Wolfson Building, 7 Parks Road
-        city: Oxford
-        region: 
-        postcode: 'OX1 3QG'
-        country: United Kingdom
-        country_code: UK
+        street: CODA Building, S1106C, 11th Floor, 756 West Peachtree St NW,
+        city: Atlanta
+        region: GA
+        postcode: 30332
+        country: United States
+        country_code: USA
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
