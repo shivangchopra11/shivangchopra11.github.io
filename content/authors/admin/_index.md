@@ -29,12 +29,12 @@ bio: Ph.D. candidate in Computer Science at Georgia Institute of Technology
 
 # Interests to show in About widget
 interests:
-  - Human-Centred AI
-  - LLM Evaluation & Alignment
-  - Philosophy of Cognition & Language
-  - Interaction/Behavioural Design Ethics
-  - Computational Linguistics
-  - Wellbeing-Supportive Technologies
+  - Robustness
+  - Efficiency
+  - Distribution Shift
+  - Vision Language Models
+  - Diffusion Models
+  - Computer Vision
 
 # Education to show in About widget
 education:
