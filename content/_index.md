@@ -82,7 +82,7 @@ sections:
           location: Zurich, Switzerland
           date_start: '2023-09-01'
           date_end: '2024-04-30'
-          description: I worked for eight months in the Advanced Sensors & Modelling Group. 
+          description: I worked for eight months in the Advanced Sensors & Modelling Group at Sony R&D. I worked on real-time ball tracking and spin estimation using Event-based Vision Sensors (EVS) for a Table Tennis robot.
         - title: Applied Scientist Intern
           company: Amazon Science
           company_url: 'https://www.amazon.science/'
@@ -90,15 +90,15 @@ sections:
           location: Seattle, WA
           date_start: '2023-05-15'
           date_end: '2023-08-15'
-          description: I worked for three months as an applied scientist intern in the Amazon Selection and Catalog Systems (ASCS) team at Sony R&D. I worked on real-time ball tracking and spin estimation using Event-based Vision Sensors (EVS) for a Table Tennis robot.
-        - title: Leader of Masterclass in Computer Science
-          company: Royal Institution
-          company_url: 'https://www.rigb.org/learning/ri-masterclasses'
-          company_logo: cfi
-          location: Oxford, UK
-          date_start: '2023-03-17'
-          date_end: '2024-03-18'
-          description: I designed a Royal Institution Masterclass on Dark Patterns that I lead annually at the University of Oxford.
+          description: I worked for three months as an applied scientist intern in the Amazon Selection and Catalog Systems (ASCS) team at Amazon Science. I developed a product recommendation system for newly onboarded products on Amazon.com.
+        - title: Research Intern
+          company: Microsoft Research Lab, India
+          company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'
+          company_logo: msr
+          location: Bangalore, India
+          date_start: '2022-05-15'
+          date_end: '2022-08-15'
+          description: I worked as a research intern in project hyway, a computer vision based video conferencing system for hybrid workplaces.
         - title: Student Ambassador
           company: Jesus College, The University of Oxford
           company_url: 'https://www.jesus.ox.ac.uk/'
