@@ -98,47 +98,47 @@ sections:
           location: Bangalore, India
           date_start: '2022-05-15'
           date_end: '2022-08-15'
-          description: I worked as a research intern in project hyway, a computer vision based video conferencing system for hybrid workplaces.
-        - title: Student Ambassador
-          company: Jesus College, The University of Oxford
-          company_url: 'https://www.jesus.ox.ac.uk/'
-          company_logo: JC
-          location: Oxford, UK
-          date_start: '2024-04-01'
-          date_end: '2024-06-30'
-          description: I was asked to design and lead a computer science workshop for Welsh state schoolchildren for Jesus College's annual Women in Sciences Day.
-        - title: Graduate Research Assistant & Teaching Assistant
-          company: University of Oxford
-          company_url: 'https://www.cs.ox.ac.uk/'
-          company_logo: ox
-          location: Oxford, UK
-          date_start: '2020-04-05'
-          date_end: '2022-11-19'
-          description: I worked as an RA for the EPSRC-funded RoboTIPS project taking a Responsible Innovation approach to the research and development of social robots. I also helped teach two Software Engineering courses (Interaction Design, Requirements Engineering) and two Computer Science courses (Ethical Computing in Practice, Ethics and Responsible Innovation).
-        - title: Co-founder of RTI Student Network
-          company: Responsible Technology Institute
-          company_url: 'https://www.rti.ox.ac.uk/student-network/'
-          company_logo: rti
-          location: Oxford, UK
-          date_start: '2020-11-15'
-          date_end: '2024-01-15'
-          description: The RTI is an international centre of excellence on responsible technology. I co-founded its international student network connecting researchers interested in topics related to responsible innovation. I helped organise reading groups, expert panel discussions, and work-in-progress seminars.
-        - title: Lecturer & Teaching Assistant
-          company: Stellenbosch University
-          company_url: 'https://www0.sun.ac.za/philosophy/'
-          company_logo: st
-          location: Stellenbosch, South Africa
-          date_start: '2018-02-14'
-          date_end: '2019-07-01'
-          description: I helped administer two Philosophy courses, gave frequent tutorials for first years and led a weekly seminar for a class of 80 third-years.
-        - title: Teaching Assistant & Seminar Leader
-          company: North-West University
-          company_url: 'https://humanities.nwu.ac.za/communication/history-art'
-          company_logo: nw
-          location: Potchefstroom, South Africa
-          date_start: '2015-02-01'
-          date_end: '2017-08-05'
-          description: I helped administer several Philosophy and History of Art courses and led weekly seminars.
+          description: I worked as a research intern in project HyWay, a computer vision based video conferencing system for hybrid workplaces.
+        - title: Research Assistant
+          company: University of Texas, Dallas
+          company_url: 'https://www.utdallas.edu/'
+          company_logo: utd
+          location: Remote
+          date_start: '2022-03-01'
+          date_end: '2022-07-31'
+          description: I worked as a research assistant at CARAML Lab at UT Dallas on the problem of unknown class data discovery using Active Learning.
+        - title: Software Engineer
+          company: Codenation Innovation Labs
+          company_url: 'https://innovations.trilogy.com/'
+          company_logo: cn
+          location: Bangalore, India
+          date_start: '2020-09-01'
+          date_end: '2022-04-30'
+          description: I worked as a full-time Software Engineer at CodeNation Innovation Labs for two years, contributing to multiple projects, including web-based applications built with React and Android/iOS applications developed using Kotlin and Swift.
+        - title: Research Intern
+          company: IBM Research Lab
+          company_url: 'https://research.ibm.com/labs/india'
+          company_logo: ibm
+          location: Delhi, India
+          date_start: '2020-06-01'
+          date_end: '2020-08-31'
+          description: I worked as a research intern at IBM Research Lab, India on the problem of real-time explicit content detection in videos.
+        # - title: Lecturer & Teaching Assistant
+        #   company: Stellenbosch University
+        #   company_url: 'https://www0.sun.ac.za/philosophy/'
+        #   company_logo: st
+        #   location: Stellenbosch, South Africa
+        #   date_start: '2018-02-14'
+        #   date_end: '2019-07-01'
+        #   description: I helped administer two Philosophy courses, gave frequent tutorials for first years and led a weekly seminar for a class of 80 third-years.
+        # - title: Teaching Assistant & Seminar Leader
+        #   company: North-West University
+        #   company_url: 'https://humanities.nwu.ac.za/communication/history-art'
+        #   company_logo: nw
+        #   location: Potchefstroom, South Africa
+        #   date_start: '2015-02-01'
+        #   date_end: '2017-08-05'
+        #   description: I helped administer several Philosophy and History of Art courses and led weekly seminars.
       # - title: Graduate Research Assistant
       #     company: University of Oxford
       #     company_url: ''
