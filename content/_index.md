@@ -75,22 +75,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research & Editorial Assistant
-          company: Leverhulme Centre for the Future of Intelligence
-          company_url: 'https://www.lcfi.ac.uk/'
-          company_logo: cfi
-          location: Cambridge, UK
-          date_start: '2024-09-30'
-          date_end: 
-          description: I am a Research and Editorial Assistant to the director of CFI, Dr. Stephen Cave. My role includes proofreading and copyediting manuscripts, conducting literature reviews, and contacting prospective authors for a bookseries on AI.
-        - title: Student Researcher
-          company: Google
-          company_url: 'https://about.google/'
-          company_logo: goog
-          location: London, UK
-          date_start: '2023-07-15'
-          date_end: '2023-10-20'
-          description: I worked for three months as a student researcher in the Cerebra team at Google. I led a project on the evaluation of agentic Large Language Models (LLMs), and proposed a novel ethical framework centred on duties of respectful treatment in interaction.
+        - title: Computer Vision Research Intern
+          company: Sony R&D
+          company_url: 'https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/'
+          company_logo: sony
+          location: Zurich, Switzerland
+          date_start: '2023-09-01'
+          date_end: '2024-04-30'
+          description: I worked for eight months in the Advanced Sensors & Modelling Group. 
+        - title: Applied Scientist Intern
+          company: Amazon Science
+          company_url: 'https://www.amazon.science/'
+          company_logo: amazon
+          location: Seattle, WA
+          date_start: '2023-05-15'
+          date_end: '2023-08-15'
+          description: I worked for three months as an applied scientist intern in the Amazon Selection and Catalog Systems (ASCS) team at Sony R&D. I worked on real-time ball tracking and spin estimation using Event-based Vision Sensors (EVS) for a Table Tennis robot.
         - title: Leader of Masterclass in Computer Science
           company: Royal Institution
           company_url: 'https://www.rigb.org/learning/ri-masterclasses'
