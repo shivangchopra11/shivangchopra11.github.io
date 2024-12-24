@@ -326,11 +326,11 @@ sections:
       subtitle:
       # text: |-
       #   You can reach me at lize (dot) alberts @ cs.ox.ac.uk
-      email: You can reach me at shivangchopra11[at]gatech[dot]edu
+      email: You can reach me at shivangchopra11 [at] gatech [dot] edu
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: CODA Building, S1106C, 11th Floor, 756 West Peachtree St NW,
+        street: CODA Building, S1106C, 11th Floor, 756 West Peachtree St NW
         city: Atlanta
         region: GA
         postcode: 30332
