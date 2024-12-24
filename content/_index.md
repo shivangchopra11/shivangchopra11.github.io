@@ -53,7 +53,7 @@ sections:
   - block: collection
     id: publication
     content:
-      title: Recent Publications
+      title: Selected Publications
       text: 
       filters:
         folders:
@@ -181,16 +181,16 @@ sections:
       #     description: I designed a Royal Institution Masterclass on Dark Patterns in interaction design for year 11 students, which I lead annually at the University of Oxford.
     design:
       columns: '2'
-  - block: collection
-    id: talks
-    content:
-      title: Recent Talks & Events
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent Talks & Events
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
   # - block: collection
   #   id: featured
   #   content:
