@@ -47,7 +47,7 @@ sections:
       title: Recent News
       text: |-
         * **January 2025**: Started my Ph.D. in Computer Science at [Georgia Institute of Technology](https://www.gatech.edu/).
-        * **December 2024**: I successfully defended my Masters thesis. 
+        * **December 2024**: Successfully defended my Masters thesis. 
         * **Sept 2023**: Started working as a Computer Vision Research Intern at Sony R&D Lab, Zurich.
         * **Aug 2023**: Full paper titled "Learning to Discern: Imitating Heterogeneous Human Demonstrations with Preference and Representation Learning" accepted at [CORL 2023](https://corl2023.org/).
         * **May 2023**: Started working as an Applied Scientist Intern at Amazon, Seattle.
@@ -62,7 +62,6 @@ sections:
         * **December 2019**: Short paper titled "Utilizing Temporal Psycholinguistic Cues for Suicidal Intent Estimation" accepted at [ECIR 2020](https://ecir2020.org/).
         * **November 2019**: Full paper titled ""Hindi-English Hate Speech Detection: Author Profiling, Debiasing, and Practical Perspectives" accepted at [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
         * **Aug 2019**: Started my research internship at MIDAS Lab, IIIT Delhi.
-      # Choose a user to display skills from (a folder name within `content/authors/`)
       username: news
     design:
       columns: '2'
