@@ -82,7 +82,7 @@ sections:
           location: Zurich, Switzerland
           date_start: '2023-09-01'
           date_end: '2024-04-30'
-          description: I worked for eight months in the Advanced Sensors & Modelling Group at Sony R&D. I worked on real-time ball tracking and spin estimation using Event-based Vision Sensors (EVS) for a Table Tennis robot.
+          description: I worked for eight months in the Advanced Sensors & Modelling Group at Sony R&D Lab on real-time ball tracking and spin estimation using Event-based Vision Sensors (EVS) for a Table Tennis robot.
         - title: Applied Scientist Intern
           company: Amazon Science
           company_url: 'https://www.amazon.science/'
@@ -90,7 +90,7 @@ sections:
           location: Seattle, WA
           date_start: '2023-05-15'
           date_end: '2023-08-15'
-          description: I worked for three months as an applied scientist intern in the Amazon Selection and Catalog Systems (ASCS) team at Amazon Science. I developed a product recommendation system for newly onboarded products on Amazon.com.
+          description: I worked for three months as an applied scientist intern in the Amazon Selection and Catalog Systems (ASCS) team at Amazon Science where I developed a product recommendation system for newly onboarded products on Amazon.com.
         - title: Research Intern
           company: Microsoft Research Lab, India
           company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'
@@ -98,7 +98,7 @@ sections:
           location: Bangalore, India
           date_start: '2022-05-15'
           date_end: '2022-08-15'
-          description: I worked as a research intern in project HyWay, a computer vision based video conferencing system for hybrid workplaces.
+          description: I worked as a research intern at Microsoft Research Lab, India in project HyWay, a computer vision based video conferencing system for hybrid workplaces.
         - title: Research Assistant
           company: University of Texas, Dallas
           company_url: 'https://www.utdallas.edu/'
