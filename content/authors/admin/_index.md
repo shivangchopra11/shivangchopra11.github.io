@@ -122,19 +122,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a DPhil candidate in Computer Science at the 
-    <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>, working in human-AI interaction. As Student Researcher at 
-    <a href="https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I led a project on agentic LLM evaluation and alignment. I am also a
-    <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/">Research Fellow</a> 
-    at Stellenbosch University's Unit for the Ethics of Technology, and a Research/Editorial Assistant at the <a href="https://www.lcfi.ac.uk/">Leverhulme Centre for the Future of Intelligence</a> at the University of Cambridge.
-{style="text-align: justify;"}
+I am a Ph.D. student in the Robotics Perception and Learning Lab (RIPL) at [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Prof. Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). My research interests lie in theoretical machine learning and computer vision, with a focus on enhancing the adaptability and generalization capabilities of foundation models.
 
-Drawing from my multi-disciplinary background, my work integrates machine learning, HCI, linguistics, philosophy, cognitive science, behavioural psychology, and the social sciences. Thereby, I contribute to responsible AI development in ways that are at once critical, practical, and analytically rigorous.
-{style="text-align: justify;"} 
+Prior to this, I completed my Masters by Research in CS at Georgia Tech, also under the guidance of [Prof. Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). My thesis centered on efficient and robust fine-tuning of Vision-Language Models. During my Master's program, I gained valuable industry experience as a Computer Vision Research Intern at the [Sony R&D Center, Switzerland](https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/) (Fall 2023 - Spring 2024) and as an Applied Scientist Intern at [Amazon Science, Seattle](https://www.amazon.science/) (Summer 2023).
 
-In my personal life, I am an artist and poet, passionate about learning, travelling, and encountering diverse forms of art. I care deeply about understanding people and protecting the environment.
-{style="text-align: justify;"} 
-
-<!-- Aside from a D.Phil. in Computer Science and an M.A. by thesis (140-pages) in Philosophy, I have over six years' experience teaching university courses across computer science, engineering and the humanities. Holding myself accountable to the standards of rigour of multiple disciplines has helped me appreciate how important, but tricky it is for researchers in AI to bridge relevant domains and engage with ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. My research lies this intersection.
-{style="text-align: justify;"}  -->
-
+Before joining Georgia Tech, I worked at [Microsoft Research Lab, India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) under the supervision of [Dr. Venkat Padmanabhan](https://www.microsoft.com/en-us/research/people/padmanab). Additionally, I have also gained research experience as an intern at the [CARAML Lab, UT Dallas](https://www.caraml-lab.com/) under the guidance of [Dr. Suraj Kothawade](https://www.linkedin.com/in/surajkothawade) and [Dr. Rishabh Iyer](https://sites.google.com/view/rishabhiyer/home), at [IBM Research Lab India](https://www.research.ibm.com/labs/india/) under the mentorship of [Dr. Sameep Mehta](https://researcher.watson.ibm.com/researcher/view.php?person=in-sameepmehta) and [Nishtha Madaan](https://research.ibm.com/people/nishtha-madaan), at [MIDAS Lab, IIIT Delhi](http://midas.iiitd.edu.in/) under the guidance of [Dr. Rajiv Ratn Shah](https://www.iiitd.ac.in/rajivratn) and at  [IIT Delhi](https://home.iitd.ac.in/) under the guidance of [Dr. Chetan Arora](https://www.cse.iitd.ac.in/~chetan/).
