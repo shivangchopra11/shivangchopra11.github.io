@@ -39,18 +39,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: D.Phil. in Computer Science, submitted
-      institution: University of Oxford
+    - course: Ph.D. in Computer Science
+      institution: Georgia Institute of Technology
       # year: 2024
-    - course: M.A. by Thesis in Philosophy (Distinction, 84%)
-      institution: Stellenbosch University
+    - course: Master's in Computer Science
+      institution: Georgia Institute of Technology
+      year: 2024
+    - course: B.Tech. in Computer Engineering
+      institution: Delhi Technological University
       year: 2020
-    - course: B.A. Hons. in Philosophy (Distinction, 82%)
-      institution: Stellenbosch University
-      year: 2019
-    - course: B.A. in Humanities (Philosophy and the Social Sciences | History of Art and English) (Distinction, 82%)
-      institution: North-West University
-      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
