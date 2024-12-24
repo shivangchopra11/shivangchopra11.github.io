@@ -1,13 +1,13 @@
 ---
 # Display name
 
-title: Lize Alberts
+title: Shivang Chopra
 # Name pronunciation (optional)
 # name_pronunciation: rhymeswithgeezer
 
 # Full name (for SEO)
-first_name: Lize
-last_name: Alberts
+first_name: Shivang
+last_name: Chopra
 
 # Status emoji woohoo
 # status:
@@ -17,19 +17,15 @@ last_name: Alberts
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Candidate | Research Fellow
+role: CS Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Oxford
-    url: https://www.cs.ox.ac.uk/people/lize.alberts/
-  - name: Leverhulme CFI
-    url: https://www.lcfi.ac.uk/
-  - name: Stellenbosch University
-    url: https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/ 
+  - name: Georgia Institute of Technology
+    url: https://www.gatech.edu/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: DPhil candidate in Computer Science at the University of Oxford | Research Assistant at the Leverhulme Centre for the Future of Intelligence | Research Fellow at Stellenbosch University's Unit for the Ethics of Technology
+bio: Ph.D. candidate in Computer Science at Georgia Institute of Technology
 
 # Interests to show in About widget
 interests:
