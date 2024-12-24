@@ -42,14 +42,14 @@ sections:
       title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: news
+  - block: markdown
     content:
       title: Recent News
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: news
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: publication
     content:
