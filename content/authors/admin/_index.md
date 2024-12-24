@@ -41,7 +41,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: Georgia Institute of Technology
-      # year: 2024
+      year: 2028
     - course: Master's in Computer Science
       institution: Georgia Institute of Technology
       year: 2024
