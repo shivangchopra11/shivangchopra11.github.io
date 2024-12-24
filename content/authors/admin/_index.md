@@ -45,7 +45,7 @@ education:
     - course: Master's in Computer Science
       institution: Georgia Institute of Technology
       year: 2024
-    - course: B.Tech. in Computer Engineering
+    - course: B.Tech. in Computer Science
       institution: Delhi Technological University
       year: 2020
 
@@ -105,13 +105,13 @@ social:
   #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?hl=en&user=AeNBSEYAAAAJ#
+    link: https://scholar.google.com/citations?user=8zokdYsAAAAJ&hl=en
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/lize-alberts-5a2097159/
+    link: https://www.linkedin.com/in/shivangchopra11/
   - icon: cv
     icon_pack: ai
     link: resume.pdf
