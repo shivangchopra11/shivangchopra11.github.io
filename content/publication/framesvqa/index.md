@@ -7,11 +7,11 @@ authors:
 - admin
 - Zsolt Kira.
 
-date: "2025"
+date: "2024"
 doi:
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01"
+publishDate: "2024-12-12"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
