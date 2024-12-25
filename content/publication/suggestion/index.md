@@ -6,6 +6,11 @@ authors:
 - Tanishq Goel
 - admin
 - Sonika Dahiya
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+
 
 date: "2020"
 doi: "https://doi.org/10.1109/BigMM50055.2020.00069"
