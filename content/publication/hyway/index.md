@@ -43,7 +43,7 @@ featured: false
 links:
 # - name: DOI
 #   url: https://doi.org/10.48550/arXiv.2401.09082
-url: https://dl.acm.org/doi/abs/10.1145/3596235
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3596235
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

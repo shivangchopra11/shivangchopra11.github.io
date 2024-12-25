@@ -43,7 +43,7 @@ featured: false
 links:
 # - name: DOI
 #   url: https://doi.org/10.48550/arXiv.2401.09082
-url: https://ieeexplore.ieee.org/abstract/document/10193633
+url_pdf: https://ieeexplore.ieee.org/abstract/document/10193633
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
