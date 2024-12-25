@@ -4,7 +4,7 @@ title: "FRAMES-VQA: Benchmarking Fine-Tuning Robustness across Multi-Modal Shift
 authors: 
 - Chengyue Huang
 - Brisa Maneechotesuwan
-- Shivang Chopra
+- admin
 - Zsolt Kira.
 
 date: "2025"

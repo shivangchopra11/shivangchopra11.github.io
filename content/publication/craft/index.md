@@ -2,7 +2,7 @@
 
 title: "CRAFT: Curriculum Rank Adversarial Fine-Tuning for Robust Vision Language Models"
 authors: 
-- Shivang Chopra
+- admin
 - Chengyue Huang
 - Brisa Maneechotesuwan
 - Zsolt Kira.
