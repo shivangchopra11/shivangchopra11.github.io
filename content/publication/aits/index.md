@@ -2,17 +2,13 @@
 
 title: "Symbiotic Artificial Intelligence: Order Picking And Ambient Sensing"
 authors: 
-- Harsh Vijay
-- Saumay Pushp
-- Amish Mittal
-- Praveen Gupta
-- Meghna Gupta
-- Sirish Gambhira
+- Zhe Ming Chng
+- Calix Tang
+- Darshan Krishnaswamy
+- Haoyang Yang
 - admin
-- Mayank Baranwal
-- Arshia Arya
-- Ajay Manchepalli
-- Venkata N Padmanabhan
+- Jon Womack
+- Thad Starner
 
 date: "2023"
 doi: "https://doi.org/10.1109/ICASSPW59220.2023.10193633"
