@@ -21,7 +21,7 @@ publishDate: "2020-03-24"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Proceedings of the IEEE Sixth International Conference on Multimedia Big Data (BigMM), 2020*"
@@ -32,15 +32,15 @@ abstract: Suggestion mining tasks are often semantically complex and lack sophis
 
 # Summary. An optional shortened abstract.
 
-summary: 
+summary: In this work we propose a two-tier pipeline that leverages Discourse Marker based oversampling and fine-grained suggestion mining techniques to retrieve suggestions from online forums.
 
 tags:
 
 featured: true
 
 links:
-# - name: DOI
-#   url: https://doi.org/10.48550/arXiv.2401.09082
+- name: IEEE BigMM 2020
+  url: 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9232491
 
 # Featured image
