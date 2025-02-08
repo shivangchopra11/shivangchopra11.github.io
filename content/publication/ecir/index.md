@@ -35,8 +35,8 @@ tags:
 featured: true
 
 links:
-# - name: DOI
-#   url: https://doi.org/10.48550/arXiv.2401.09082
+- name: ECIR 2020
+  url: 
 url_pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC7148016/pdf/978-3-030-45442-5_Chapter_33.pdf
 
 # Featured image
