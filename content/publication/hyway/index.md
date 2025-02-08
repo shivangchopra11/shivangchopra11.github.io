@@ -34,15 +34,15 @@ abstract: We present HyWay, short for "Hybrid Hallway", to enable mingling and i
 
 # Summary. An optional shortened abstract.
 
-summary: 
+summary: We present HyWay, short for "Hybrid Hallway", to enable mingling and informal interactions among physical and virtual users, in casual spaces and settings, such as office water cooler areas, conference hallways, trade show floors, and more.
 
 tags:
 
 featured: true
 
 links:
-# - name: DOI
-#   url: https://doi.org/10.48550/arXiv.2401.09082
+- name: IMWUT 2023
+  url: 
 url_pdf: https://dl.acm.org/doi/abs/10.1145/3596235
 
 # Featured image
