@@ -47,22 +47,23 @@ sections:
     content:
       title: Recent News
       text: |-
+        * **January 2025**: Our full paper titled “Directional Gradient Projection for Robust Fine-tuning of Foundation Models” accepted by ICLR 2025.
         * **January 2025**: Started my Ph.D. in Computer Science at Georgia Institute of Technology.
         * **December 2024**: Successfully defended my Masters thesis. 
         * **Sept 2023**: Started working as a Computer Vision Research Intern at Sony R&D Center, Switzerland.
-        * **Aug 2023**: Full paper titled "Learning to Discern: Imitating Heterogeneous Human Demonstrations with Preference and Representation Learning" accepted at CORL 2023.
+        * **Aug 2023**: Our full paper titled "Learning to Discern: Imitating Heterogeneous Human Demonstrations with Preference and Representation Learning" accepted at CORL 2023.
         * **May 2023**: Started working as an Applied Scientist Intern at Amazon, Seattle.
-        * **April 2023**: Full paper titled "HyWay: Enabling Unstructured Conversations in the New Hybrid World" accepted at UbiComp 2023 (IMWUT).
+        * **April 2023**: Our full paper titled "HyWay: Enabling Unstructured Conversations in the New Hybrid World" accepted at UbiComp 2023 (IMWUT).
         * **April 2023**: Workshop paper titled "Symbiotic Artificial Intelligence: Order Picking and Ambient Sensing" accepted at the Ambient AI Workshop in ICASSP 2023.
         * **August 2022**: Started my Master's in Computer Science at Georgia Institute of Technology.
-        * **July 2022**: Workshop paper titled "Active Data Discovery: Mining Unknown Data using Submodular Information Measures" accepted at the Real World ML Workshop in ICLM 2022.
+        * **July 2022**: Our workshop paper titled "Active Data Discovery: Mining Unknown Data using Submodular Information Measures" accepted at the Real World ML Workshop in ICLM 2022.
         * **May 2022**: Started my research internship in Team HyWay at Microsoft Research Lab, India.
         * **July 2021**: Started my research internship at the Faryabi Lab at University of Pennsylvania.
         * **June 2020**: Started my research internship at IBM Research Lab, India.
         * **May 2024**: Successfully defended my Bachelors thesis. 
-        * **January 2020**: Highlight paper titled "Attention-based Sketch Recognition using Transformers" accepted at ECAI 2020.
-        * **December 2019**: Short paper titled "Utilizing Temporal Psycholinguistic Cues for Suicidal Intent Estimation" accepted at ECIR 2020.
-        * **November 2019**: Full paper titled "Hindi-English Hate Speech Detection: Author Profiling, Debiasing, and Practical Perspectives" accepted at AAAI 2020.
+        * **January 2020**: Our highlight paper titled "Attention-based Sketch Recognition using Transformers" accepted at ECAI 2020.
+        * **December 2019**: Our short paper titled "Utilizing Temporal Psycholinguistic Cues for Suicidal Intent Estimation" accepted at ECIR 2020.
+        * **November 2019**: Our full paper titled "Hindi-English Hate Speech Detection: Author Profiling, Debiasing, and Practical Perspectives" accepted at AAAI 2020.
         * **Aug 2019**: Started my research internship at MIDAS Lab, IIIT Delhi.
       username: news
     design:
