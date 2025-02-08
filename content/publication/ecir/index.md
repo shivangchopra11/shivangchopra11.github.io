@@ -17,7 +17,7 @@ publishDate: "2020-03-24"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Advances in Information Retrieval: 42nd European Conference on IR Research, ECIR 2020, Lisbon, Portugal, April 14–17, 2020, Proceedings, Part II 42*"
