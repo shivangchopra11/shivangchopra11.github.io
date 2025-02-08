@@ -18,7 +18,7 @@ publishDate: "2024-03-25"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["Conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025*"
@@ -36,8 +36,8 @@ tags:
 featured: false
 
 links:
-# - name: DOI
-#   url: https://doi.org/10.48550/arXiv.2401.09082
+- name: WACV 2025
+  url: 
 url_pdf: https://arxiv.org/pdf/2403.16422
 
 # Featured image
