@@ -19,7 +19,7 @@ publishDate: "2023-06-10"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["Conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Proceedings of the 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)*"
@@ -30,15 +30,15 @@ abstract: Using egocentric video and head motion data from 67 order picking task
 
 # Summary. An optional shortened abstract.
 
-summary: 
+summary: Using egocentric video and head motion data from 67 order picking tasks (244 picks;149 orders), we learn visual models of the 10 objects picked to fulfill the orders.
 
 tags:
 
 featured: true
 
 links:
-# - name: DOI
-#   url: https://doi.org/10.48550/arXiv.2401.09082
+- name: ICASSPW 2023
+  url: 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/10193633
 
 # Featured image
