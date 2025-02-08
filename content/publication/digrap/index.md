@@ -21,7 +21,7 @@ publishDate: "2024-12-12"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["Conference Paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Proceedings of the International Conference on Learning Representations (ICLR), 2025*"
@@ -32,7 +32,7 @@ abstract: Robust fine-tuning aims to adapt large foundation models to downstream
 
 # Summary. An optional shortened abstract.
 
-summary: 
+summary: In this work, we propose Drectional Grdient Projection (DiGraP), a novel layer-wise trainable method that incorporates directional information from gradients to improve OOD robustness.
 
 tags:
 
@@ -40,9 +40,9 @@ tags:
 featured: false
 
 links:
-# - name: DOI
-#   url: https://doi.org/10.48550/arXiv.2401.09082
-# url_pdf: https://proceedings.mlr.press/v229/kuhar23a/kuhar23a.pdf
+- name: ICLR 2025
+  url: 
+url_pdf: https://openreview.net/pdf?id=goBaGHLAdP
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
