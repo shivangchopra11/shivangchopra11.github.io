@@ -16,7 +16,7 @@ publishDate: "2020-04-03"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["Conference"]
+publication_types: ["conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Proceedings of the AAAI conference on artificial intelligence*"

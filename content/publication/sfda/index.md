@@ -20,15 +20,15 @@ publishDate: "2024-02-07"
 publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Under Review*"
-publication_short: "*Under Review*"
+publication: "*In Submission*"
+publication_short: "*In Submission*"
 
 
 abstract: This paper introduces a novel approach to leverage the generalizability capability of Diffusion Models for Source-Free Domain Adaptation (DM-SFDA). Our proposed DM-SFDA method involves fine-tuning a pre-trained text-to-image diffusion model to generate source domain images using features from the target images to guide the diffusion process. Specifically, the pre-trained diffusion model is fine-tuned to generate source samples that minimize entropy and maximize confidence for the pre-trained source model. We then apply established unsupervised domain adaptation techniques to align the generated source images with target domain data. We validate our approach through comprehensive experiments across a range of datasets, including Office-31, Office-Home, and VisDA. The results highlight significant improvements in SFDA performance, showcasing the potential of diffusion models in generating contextually relevant, domain-specific images.
 
 # Summary. An optional shortened abstract.
 
-summary: 
+summary: This paper introduces a novel approach to leverage the generalizability capability of Diffusion Models for Source-Free Domain Adaptation (DM-SFDA).
 
 tags:
 

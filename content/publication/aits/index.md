@@ -19,7 +19,7 @@ publishDate: "2023-06-10"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["Conference"]
+publication_types: ["conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Proceedings of the 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)*"

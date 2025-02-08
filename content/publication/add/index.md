@@ -17,7 +17,7 @@ publishDate: "2022-06-17"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["Conference"]
+publication_types: ["conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*RealML Workshop in International Conference on Machine Learning (ICML), 2023*"
