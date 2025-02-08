@@ -28,7 +28,7 @@ abstract: Practical Imitation Learning (IL) systems rely on large human demonstr
 
 # Summary. An optional shortened abstract.
 
-summary: 
+summary: In this work, we introduce Learning to Discern (L2D), an offline imitation learning framework for learning from demonstrations with diverse quality and style.
 
 tags:
 
@@ -36,8 +36,8 @@ tags:
 featured: false
 
 links:
-# - name: DOI
-#   url: https://doi.org/10.48550/arXiv.2401.09082
+- name: CoRL 2023
+  url: 
 url_pdf: https://proceedings.mlr.press/v229/kuhar23a/kuhar23a.pdf
 
 # Featured image
