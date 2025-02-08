@@ -29,7 +29,7 @@ abstract: Over the past few years, Text-to-Image (T2I) generation approaches bas
 
 # Summary. An optional shortened abstract.
 
-summary: 
+summary: In this work, we introduce a training-free framework to enhance the capability of Diffusion Models to generate visual text.
 
 tags:
 
