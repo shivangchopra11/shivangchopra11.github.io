@@ -16,7 +16,7 @@ publishDate: "2020-04-03"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["Conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Proceedings of the AAAI conference on artificial intelligence*"
@@ -34,8 +34,8 @@ tags:
 featured: true
 
 links:
-# - name: DOI
-#   url: https://doi.org/10.48550/arXiv.2401.09082
+- name: AAAI 2020
+  url: 
 url_pdf: https://aaai.org/ojs/index.php/AAAI/article/view/5374/5230
 
 # Featured image
