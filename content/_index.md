@@ -47,9 +47,10 @@ sections:
     content:
       title: Recent News
       text: |-
-        * **January 2025**: Our full paper titled “Directional Gradient Projection for Robust Fine-tuning of Foundation Models” accepted by ICLR 2025.
+        * **January 2025**: Our full paper titled “Directional Gradient Projection for Robust Fine-tuning of Foundation Models” accepted at ICLR 2025.
         * **January 2025**: Started my Ph.D. in Computer Science at Georgia Institute of Technology.
-        * **December 2024**: Successfully defended my Masters thesis. 
+        * **December 2024**: Successfully defended my Masters thesis.
+        * **October 2024**: Our full paper titled "Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation" accepted at WACV 2025. 
         * **Sept 2023**: Started working as a Computer Vision Research Intern at Sony R&D Center, Switzerland.
         * **Aug 2023**: Our full paper titled "Learning to Discern: Imitating Heterogeneous Human Demonstrations with Preference and Representation Learning" accepted at CORL 2023.
         * **May 2023**: Started working as an Applied Scientist Intern at Amazon, Seattle.
