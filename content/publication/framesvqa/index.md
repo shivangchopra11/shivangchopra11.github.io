@@ -37,7 +37,7 @@ featured: false
 links:
 - name: CVPR 2025
 #   url: https://doi.org/10.48550/arXiv.2401.09082
-# url_pdf: https://proceedings.mlr.press/v229/kuhar23a/kuhar23a.pdf
+url_pdf: https://arxiv.org/pdf/2505.21755
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
