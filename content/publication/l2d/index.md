@@ -39,6 +39,7 @@ links:
 - name: CoRL 2023
   url: 
 url_pdf: https://proceedings.mlr.press/v229/kuhar23a/kuhar23a.pdf
+url_video: https://openreview.net/attachment?id=kOm3jWX8YN&name=poster_spotlight_video
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
