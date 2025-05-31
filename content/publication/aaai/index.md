@@ -37,6 +37,7 @@ links:
 - name: AAAI 2020
   url: 
 url_pdf: https://aaai.org/ojs/index.php/AAAI/article/view/5374/5230
+url_poster: 'https://drive.google.com/file/d/1r-6WROTH_hjSJrSUdYeWMHz2qBvbtICq/view?usp=sharing'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
