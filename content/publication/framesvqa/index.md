@@ -32,7 +32,7 @@ summary: In this work, we propose a new benchmark FRAMES-VQA (Fine-Tuning Robust
 tags:
 
 
-featured: false
+featured: true
 
 links:
 - name: CVPR 2025

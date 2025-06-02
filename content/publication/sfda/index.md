@@ -32,7 +32,7 @@ summary: This paper introduces a novel approach to leverage the generalizability
 
 tags:
 
-featured: true
+featured: false
 
 links:
 # - name: DOI
