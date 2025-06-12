@@ -33,7 +33,7 @@ summary: In this work, we introduce Learning to Discern (L2D), an offline imitat
 tags:
 
 
-featured: false
+featured: true
 
 links:
 - name: CoRL 2023
