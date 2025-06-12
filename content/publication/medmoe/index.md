@@ -1,6 +1,6 @@
 ---
 
-title: "Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation"
+title: "MedMoE: Modality-Specialized Mixture of Experts for Medical Vision-Language Understanding"
 authors: 
 - admin
 - Gabriela Sanchez-Rodriguez
@@ -40,6 +40,7 @@ links:
 - name: CVPRW 2025
   url: 
 url_pdf: https://arxiv.org/pdf/2506.08356
+url_poster: 'https://drive.google.com/file/d/1U04XHf45GpvgMzumYp5jbrohpNKHDWto/view?usp=sharing'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
