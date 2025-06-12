@@ -47,7 +47,7 @@ sections:
     content:
       title: Recent News
       text: |-
-        * **May 2025**: Our short paper titles "MedMoE: Modality-Specialized Mixture of Experts for Medical Vision-Language Understanding" was accepted at the MMFM-BIOMED Workshop at CVPR 2025.
+        * **May 2025**: Our short paper titled "MedMoE: Modality-Specialized Mixture of Experts for Medical Vision-Language Understanding" was accepted at the MMFM-BIOMED Workshop at CVPR 2025.
         * **February 2025**: Our full paper titled “FRAMES-VQA: Benchmarking Fine-Tuning Robustness across Multi-Modal Shifts in Visual Question Answering” was accepted at CVPR 2025.
         * **January 2025**: Our full paper titled “Directional Gradient Projection for Robust Fine-tuning of Foundation Models” was accepted at ICLR 2025.
         * **January 2025**: Started my Ph.D. in Computer Science at Georgia Institute of Technology.
