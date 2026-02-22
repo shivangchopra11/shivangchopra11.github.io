@@ -64,7 +64,7 @@ sections:
         * **May 2022**: Started my research internship in Team HyWay at Microsoft Research Lab, India.
         * **July 2021**: Started my research internship at the Faryabi Lab at University of Pennsylvania.
         * **June 2020**: Started my research internship at IBM Research Lab, India.
-        * **May 2024**: Successfully defended my Bachelors thesis. 
+        * **May 2020**: Successfully defended my Bachelors thesis. 
         * **January 2020**: Our highlight paper titled "Attention-based Sketch Recognition using Transformers" was accepted at ECAI 2020.
         * **December 2019**: Our short paper titled "Utilizing Temporal Psycholinguistic Cues for Suicidal Intent Estimation" was accepted at ECIR 2020.
         * **November 2019**: Our full paper titled "Hindi-English Hate Speech Detection: Author Profiling, Debiasing, and Practical Perspectives" was accepted at AAAI 2020.
