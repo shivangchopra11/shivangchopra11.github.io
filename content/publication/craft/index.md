@@ -3,31 +3,32 @@
 title: "CRAFT: Curriculum Rank Adversarial Fine-Tuning for Robust Vision Language Models"
 authors: 
 - admin
+- Shaunak Halbe
 - Chengyue Huang
 - Brisa Maneechotesuwan
 - Zsolt Kira.
 
-date: "2024"
+date: "2026"
 doi:
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-12-20"
+publishDate: "2026-02-20"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["preprint"]
+publication_types: ["conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*In Submission*"
-publication_short: "*In Submission*"
+publication: "*Accepted at CVPR, 2026*"
+publication_short: "*Accepted at CVPR, 2026*"
 
 
-abstract: Existing Vision-Language Models (VLMs) have demonstrated remarkable zero-shot performance across various visual domains and tasks. However, recent studies have shown that fine-tuning VLMs on downstream tasks results in loss of generalization and decreased robustness against distribution shifts. To address this issue, we propose Curriculum Rank Adversarial Fine-Tuning (CRAFT), a unified low-rank fine-tuning framework designed to enhance both out-of-distribution (OOD) and adversarial robustness by integrating adaptive adversarial weight perturbations into a curriculum-driven Low-Rank Adaptation (LoRA) framework. CRAFT is grounded in three key insights (1) constrained parameter updates preserve OOD generalization, (2) promoting a flat weight-loss landscape enhances OOD robustness, and (3) adversarial training with adaptive perturbation budgets mitigate catastrophic forgetting. By progressively increasing the rank of weight updates and perturbations over the course of training, CRAFT balances task-specific adaptation with robustness, yielding flatter minima and enhanced OOD robustness. Through comprehensive empirical experiments, we demonstrate that CRAFT preserves VLMs' zero-shot abilities while adapting to specific tasks, outperforming state-of-the-art adversarial and robust fine-tuning approaches in both natural and adversarial distribution shifts. When fine-tuned on DomainNet and ImageNet datasets, CRAFT shows state-of-the-art ID performance while improving average OOD performance by 12% and 10% respectively over the vanilla fine-tuning baseline.
+abstract: Fine-tuning approaches for Vision-Language Models (VLMs) face a critical three-way trade-off between In-Distribution (ID) accuracy, Out-of-Distribution (OOD) generalization, and adversarial robustness. Existing robust fine-tuning strategies resolve at most two axes of this trade-off. Generalization-preserving methods retain ID/OOD performance but leave models vulnerable to adversarial attacks, while adversarial training improves robustness to targeted attacks but degrades ID/OOD accuracy. Our key insight is that the robustness trade-off stems from two geometric failures: sharp, anisotropic minima in parameter space and unstable feature representations that deform under perturbation. To address this, we propose GRACE (Gram-aligned Robustness via Adaptive Curvature Estimation), a unified fine-tuning framework that jointly regularizes the parameter-space curvature and feature-space invariance for VLMs. Grounded in Robust PAC-Bayes theory, GRACE employs adaptive weight perturbations scaled by local curvature to promote flatter minima, combined with a feature alignment loss that maintains representation consistency across clean, adversarial, and OOD inputs. On ImageNet fine-tuning of CLIP models, GRACE simultaneously improves ID accuracy by 10.8%, and adversarial accuracy by 8.9% while maintaining 57.0% OOD accuracy (vs. 57.4% zero-shot baseline). Geometric analysis confirms that GRACE converges to flatter minima without feature distortion across distribution shifts, providing a principled step toward generalized robustness in foundation VLMs.
 
 # Summary. An optional shortened abstract.
 
-summary: In this work, we propose CRAFT, a unified low-rank fine-tuning framework designed to enhance both out-of-distribution (OOD) and adversarial robustness by integrating adaptive adversarial weight perturbations into a curriculum-driven Low-Rank Adaptation (LoRA) framework.
+summary: In this work, we propose GRACE, a unified low-rank fine-tuning framework designed to enhance both out-of-distribution (OOD) and adversarial robustness by integrating adaptive adversarial weight perturbations into a curriculum-driven Low-Rank Adaptation (LoRA) framework.
 
 tags:
 
@@ -35,7 +36,7 @@ tags:
 featured: false
 
 links:
-# - name: DOI
+- name: CVPR 2026
 #   url: https://doi.org/10.48550/arXiv.2401.09082
 # url_pdf: https://proceedings.mlr.press/v229/kuhar23a/kuhar23a.pdf
 
