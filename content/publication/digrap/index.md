@@ -37,7 +37,7 @@ summary: In this work, we propose Drectional Grdient Projection (DiGraP), a nove
 tags:
 
 
-featured: true
+featured: false
 
 links:
 - name: ICLR 2025
