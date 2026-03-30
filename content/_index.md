@@ -75,7 +75,7 @@ sections:
 
             <li><strong>August 2022</strong>: Started my Master's in Computer Science at Georgia Institute of Technology.</li>
 
-            <li><strong>July 2022</strong>: Our workshop paper titled "Active Data Discovery: Mining Unknown Data using Submodular Information Measures" was accepted at the Real World ML Workshop in ICLM 2022.</li>
+            <li><strong>July 2022</strong>: Our workshop paper titled "Active Data Discovery: Mining Unknown Data using Submodular Information Measures" was accepted at the Real World ML Workshop in ICML 2022.</li>
 
             <li><strong>May 2022</strong>: Started my research internship in Team HyWay at Microsoft Research Lab, India.</li>
 
