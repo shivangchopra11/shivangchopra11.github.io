@@ -1,14 +1,14 @@
 .news-scroll {
-  max-height: 250px;   /* adjust height */
+  max-height: 320px;
   overflow-y: auto;
-  padding-right: 10px;
+  padding-right: 12px;
 }
 
-/* Optional: nicer scrollbar */
-.news-scroll::-webkit-scrollbar {
-  width: 6px;
+.news-scroll ul {
+  margin: 0;
+  padding-left: 1.2rem;
 }
-.news-scroll::-webkit-scrollbar-thumb {
-  background-color: #888;
-  border-radius: 4px;
+
+.news-scroll li {
+  margin-bottom: 0.75rem;
 }
