@@ -14,6 +14,9 @@ appearance:
 
 # SEO
 
+custom_css:
+  - css/custom.css
+
 marketing:
   seo:
     site_type: Person
