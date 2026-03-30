@@ -1,19 +1,12 @@
-section#news .col-12.col-lg-8 ul,
-#news .col-12.col-lg-8 ul,
-.home-section .col-12.col-lg-8 ul {
-  max-height: 12em;
-  overflow-y: auto;
-  overflow-x: hidden;
-  display: block;
-  padding-right: 0.75rem;
-  margin: 0;
+section#news .col-12.col-lg-8 ul::-webkit-scrollbar,
+#news .col-12.col-lg-8 ul::-webkit-scrollbar,
+.home-section .col-12.col-lg-8 ul::-webkit-scrollbar {
+  width: 8px;
 }
 
-section#news .col-12.col-lg-8 li,
-#news .col-12.col-lg-8 li,
-.home-section .col-12.col-lg-8 li {
-  margin-bottom: 0.8rem;
-  line-height: 1.5;
-  white-space: normal;
-  overflow-wrap: break-word;
+section#news .col-12.col-lg-8 ul::-webkit-scrollbar-thumb,
+#news .col-12.col-lg-8 ul::-webkit-scrollbar-thumb,
+.home-section .col-12.col-lg-8 ul::-webkit-scrollbar-thumb {
+  background: rgba(120, 120, 120, 0.6);
+  border-radius: 6px;
 }
