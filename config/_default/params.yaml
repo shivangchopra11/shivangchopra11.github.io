@@ -11,6 +11,9 @@ appearance:
   font: minimal
   font_size: M
 
+appearance:
+  custom_css: ["css/custom.css"]
+
 # SEO
 
 marketing:
