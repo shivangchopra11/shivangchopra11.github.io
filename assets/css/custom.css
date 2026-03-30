@@ -1,5 +1,7 @@
-#news ul {
-  max-height: 11.5em;   /* about 3 items visible */
+section#news .col-12.col-lg-8 ul,
+#news .col-12.col-lg-8 ul,
+.home-section .col-12.col-lg-8 ul {
+  max-height: 12em;
   overflow-y: auto;
   overflow-x: hidden;
   display: block;
@@ -7,10 +9,11 @@
   margin: 0;
 }
 
-#news li {
+section#news .col-12.col-lg-8 li,
+#news .col-12.col-lg-8 li,
+.home-section .col-12.col-lg-8 li {
   margin-bottom: 0.8rem;
   line-height: 1.5;
   white-space: normal;
-  word-break: normal;
   overflow-wrap: break-word;
 }
