@@ -10,13 +10,9 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: M
-  custom_css: ["css/custom.css"]
+  custom_css: ["css/custom.scss"]
 
 # SEO
-
-custom_css:
-  - custom
-
 marketing:
   seo:
     site_type: Person
@@ -113,8 +109,10 @@ extensions:
   academicons:
     enable: true
 
-# Security
+custom_css:
+  - custom
 
+# Security
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
