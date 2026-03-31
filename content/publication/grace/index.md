@@ -30,7 +30,7 @@ featured: false
 
 links:
   - name: "CVPR 2026"
-    url_pdf: https://arxiv.org/pdf/2603.27139
+url_pdf: https://arxiv.org/pdf/2603.27139
 
 image:
   caption: ""
