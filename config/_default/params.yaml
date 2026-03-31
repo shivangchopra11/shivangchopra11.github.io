@@ -15,7 +15,7 @@ appearance:
 # SEO
 
 custom_css:
-  - css/custom.css
+  - custom
 
 marketing:
   seo:
