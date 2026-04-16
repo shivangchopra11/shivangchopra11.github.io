@@ -47,28 +47,104 @@ sections:
     content:
       title: Recent News
       text: |-
-        * **Feb 2026**: Our full paper titled "The Geometry of Robustness: Optimizing Loss Landscape Curvature and Feature Manifold Alignment for Robust Finetuning of Vision-Language Models" was accepted at CVPR 2026.
-        * **May 2025**: Our short paper titled "MedMoE: Modality-Specialized Mixture of Experts for Medical Vision-Language Understanding" was accepted at the MMFM-BIOMED Workshop at CVPR 2025.
-        * **February 2025**: Our full paper titled “FRAMES-VQA: Benchmarking Fine-Tuning Robustness across Multi-Modal Shifts in Visual Question Answering” was accepted at CVPR 2025.
-        * **January 2025**: Our full paper titled “Directional Gradient Projection for Robust Fine-tuning of Foundation Models” was accepted at ICLR 2025.
-        * **January 2025**: Started my Ph.D. in Computer Science at Georgia Institute of Technology.
-        * **December 2024**: Successfully defended my Masters thesis.
-        * **October 2024**: Our full paper titled "Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation" was accepted at WACV 2025.
-        * **Sept 2023**: Started working as a Computer Vision Research Intern at Sony R&D Center, Switzerland.
-        * **Aug 2023**: Our full paper titled "Learning to Discern: Imitating Heterogeneous Human Demonstrations with Preference and Representation Learning" was accepted at CORL 2023.
-        * **May 2023**: Started working as an Applied Scientist Intern at Amazon, Seattle.
-        * **April 2023**: Our full paper titled "HyWay: Enabling Unstructured Conversations in the New Hybrid World" was accepted at UbiComp 2023 (IMWUT).
-        * **April 2023**: Our workshop paper titled "Symbiotic Artificial Intelligence: Order Picking and Ambient Sensing" was accepted at the Ambient AI Workshop in ICASSP 2023.
-        * **August 2022**: Started my Master's in Computer Science at Georgia Institute of Technology.
-        * **July 2022**: Our workshop paper titled "Active Data Discovery: Mining Unknown Data using Submodular Information Measures" was accepted at the Real World ML Workshop in ICML 2022.
-        * **May 2022**: Started my research internship in Team HyWay at Microsoft Research Lab, India.
-        * **July 2021**: Started my research internship at the Faryabi Lab at University of Pennsylvania.
-        * **June 2020**: Started my research internship at IBM Research Lab, India.
-        * **May 2020**: Successfully defended my Bachelors thesis.
-        * **January 2020**: Our highlight paper titled "Attention-based Sketch Recognition using Transformers" was accepted at ECAI 2020.
-        * **December 2019**: Our short paper titled "Utilizing Temporal Psycholinguistic Cues for Suicidal Intent Estimation" was accepted at ECIR 2020.
-        * **November 2019**: Our full paper titled "Hindi-English Hate Speech Detection: Author Profiling, Debiasing, and Practical Perspectives" was accepted at AAAI 2020.
-        * **Aug 2019**: Started my research internship at MIDAS Lab, IIIT Delhi.
+        <div style="max-height: 260px; overflow-y: auto; padding-right: 8px;">
+          <table style="width: 100%; border-collapse: collapse;">
+            <colgroup>
+              <col style="width: 140px;">
+              <col>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Feb 2026</b></td>
+                <td style="padding: 6px 0;">Our full paper titled "<i>The Geometry of Robustness: Optimizing Loss Landscape Curvature and Feature Manifold Alignment for Robust Finetuning of Vision-Language Models</i>" was accepted at CVPR 2026.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>May 2025</b></td>
+                <td style="padding: 6px 0;">Our short paper titled "<i>MedMoE: Modality-Specialized Mixture of Experts for Medical Vision-Language Understanding</i>" was accepted at the MMFM-BIOMED Workshop at CVPR 2025.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Feb 2025</b></td>
+                <td style="padding: 6px 0;">Our full paper titled “FRAMES-VQA: Benchmarking Fine-Tuning Robustness across Multi-Modal Shifts in Visual Question Answering” was accepted at CVPR 2025.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Jan 2025</b></td>
+                <td style="padding: 6px 0;">Our full paper titled “Directional Gradient Projection for Robust Fine-tuning of Foundation Models” was accepted at ICLR 2025.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Jan 2025</b></td>
+                <td style="padding: 6px 0;">Started my Ph.D. in Computer Science at Georgia Institute of Technology.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Dec 2024</b></td>
+                <td style="padding: 6px 0;">Successfully defended my Master’s thesis.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Oct 2024</b></td>
+                <td style="padding: 6px 0;">Our full paper titled "<i>Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation</i>" was accepted at WACV 2025.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Sep 2023</b></td>
+                <td style="padding: 6px 0;">Started working as a Computer Vision Research Intern at Sony R&amp;D Center, Switzerland.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Aug 2023</b></td>
+                <td style="padding: 6px 0;">Our full paper titled "<i>Learning to Discern: Imitating Heterogeneous Human Demonstrations with Preference and Representation Learning</i>" was accepted at CoRL 2023.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>May 2023</b></td>
+                <td style="padding: 6px 0;">Started working as an Applied Scientist Intern at Amazon, Seattle.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Apr 2023</b></td>
+                <td style="padding: 6px 0;">Our full paper titled "<i>HyWay: Enabling Unstructured Conversations in the New Hybrid World</i>" was accepted at UbiComp 2023 (IMWUT).</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Apr 2023</b></td>
+                <td style="padding: 6px 0;">Our workshop paper titled "<i>Symbiotic Artificial Intelligence: Order Picking and Ambient Sensing</i>" was accepted at the Ambient AI Workshop in ICASSP 2023.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Aug 2022</b></td>
+                <td style="padding: 6px 0;">Started my Master’s in Computer Science at Georgia Institute of Technology.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Jul 2022</b></td>
+                <td style="padding: 6px 0;">Our workshop paper titled "<i>Active Data Discovery: Mining Unknown Data using Submodular Information Measures</i>" was accepted at the Real World ML Workshop in ICML 2022.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>May 2022</b></td>
+                <td style="padding: 6px 0;">Started my research internship in Team HyWay at Microsoft Research Lab, India.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Jul 2021</b></td>
+                <td style="padding: 6px 0;">Started my research internship at the Faryabi Lab at the University of Pennsylvania.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Jun 2020</b></td>
+                <td style="padding: 6px 0;">Started my research internship at IBM Research Lab, India.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>May 2020</b></td>
+                <td style="padding: 6px 0;">Successfully defended my Bachelor’s thesis.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Jan 2020</b></td>
+                <td style="padding: 6px 0;">Our highlight paper titled "<i>Attention-based Sketch Recognition using Transformers</i>" was accepted at ECAI 2020.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Dec 2019</b></td>
+                <td style="padding: 6px 0;">Our short paper titled "<i>Utilizing Temporal Psycholinguistic Cues for Suicidal Intent Estimation</i>" was accepted at ECIR 2020.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Nov 2019</b></td>
+                <td style="padding: 6px 0;">Our full paper titled "<i>Hindi-English Hate Speech Detection: Author Profiling, Debiasing, and Practical Perspectives</i>" was accepted at AAAI 2020.</td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Aug 2019</b></td>
+                <td style="padding: 6px 0;">Started my research internship at MIDAS Lab, IIIT Delhi.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
       username: news
     design:
       columns: '2'
