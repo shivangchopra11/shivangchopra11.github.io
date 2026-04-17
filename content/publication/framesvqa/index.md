@@ -6,6 +6,9 @@ authors:
 - Brisa Maneechotesuwan
 - admin
 - Zsolt Kira.
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2024"
 doi:
@@ -32,7 +35,7 @@ summary: In this work, we propose a new benchmark FRAMES-VQA (Fine-Tuning Robust
 tags:
 
 
-featured: true
+featured: false
 
 links:
 - name: CVPR 2025

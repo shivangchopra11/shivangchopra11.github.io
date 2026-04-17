@@ -34,7 +34,7 @@ summary: In this work, we introduce a modality aware MoE Vision-Language Model f
 
 tags:
 
-featured: false
+featured: true
 
 links:
 - name: CVPRW 2025
