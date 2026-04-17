@@ -35,7 +35,7 @@ tags:
 featured: false
 
 links:
-- name: ICMLW 2023
+- name: ICML(W) 2023
   url: 
 url_pdf: https://arxiv.org/pdf/2206.08566
 url_poster: 'https://drive.google.com/file/d/1hQINdgj-_Y97s6BmNNg8NF0nz7UIehAm/view?usp=sharing'
