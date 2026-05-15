@@ -55,20 +55,20 @@ sections:
             </colgroup>
             <tbody>
               <tr>
+                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>May 2026</b></td>
+                <td style="padding: 6px 0;">Started working as a Student Researcher at Google Research, Mountain View.</td>
+              </tr>
+              <tr>
                 <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Feb 2026</b></td>
-                <td style="padding: 6px 0;">Our full paper titled "<i>The Geometry of Robustness: Optimizing Loss Landscape Curvature and Feature Manifold Alignment for Robust Finetuning of Vision-Language Models</i>" was accepted at CVPR 2026.</td>
+                <td style="padding: 6px 0;">First-author paper titled "<i>The Geometry of Robustness: Optimizing Loss Landscape Curvature and Feature Manifold Alignment for Robust Finetuning of Vision-Language Models</i>" accepted at CVPR 2026.</td>
               </tr>
               <tr>
                 <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>May 2025</b></td>
-                <td style="padding: 6px 0;">Our short paper titled "<i>MedMoE: Modality-Specialized Mixture of Experts for Medical Vision-Language Understanding</i>" was accepted at the MMFM-BIOMED Workshop at CVPR 2025.</td>
+                <td style="padding: 6px 0;">First-author short paper titled "<i>MedMoE: Modality-Specialized Mixture of Experts for Medical Vision-Language Understanding</i>" accepted at the MMFM-BIOMED Workshop at CVPR 2025.</td>
               </tr>
               <tr>
                 <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Feb 2025</b></td>
-                <td style="padding: 6px 0;">Our full paper titled “FRAMES-VQA: Benchmarking Fine-Tuning Robustness across Multi-Modal Shifts in Visual Question Answering” was accepted at CVPR 2025.</td>
-              </tr>
-              <tr>
-                <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Jan 2025</b></td>
-                <td style="padding: 6px 0;">Our full paper titled “Directional Gradient Projection for Robust Fine-tuning of Foundation Models” was accepted at ICLR 2025.</td>
+                <td style="padding: 6px 0;">Second-author paper titled “FRAMES-VQA: Benchmarking Fine-Tuning Robustness across Multi-Modal Shifts in Visual Question Answering" accepted at CVPR 2025.</td>
               </tr>
               <tr>
                 <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Jan 2025</b></td>
@@ -80,7 +80,7 @@ sections:
               </tr>
               <tr>
                 <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Oct 2024</b></td>
-                <td style="padding: 6px 0;">Our full paper titled "<i>Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation</i>" was accepted at WACV 2025.</td>
+                <td style="padding: 6px 0;">Second-author paper titled "<i>Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation</i>" accepted at WACV 2025.</td>
               </tr>
               <tr>
                 <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Sep 2023</b></td>
@@ -108,7 +108,7 @@ sections:
               </tr>
               <tr>
                 <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Jul 2022</b></td>
-                <td style="padding: 6px 0;">Our workshop paper titled "<i>Active Data Discovery: Mining Unknown Data using Submodular Information Measures</i>" was accepted at the Real World ML Workshop in ICML 2022.</td>
+                <td style="padding: 6px 0;">Second author paper titled "<i>Active Data Discovery: Mining Unknown Data using Submodular Information Measures</i>" accepted at the Real World ML Workshop in ICML 2022.</td>
               </tr>
               <tr>
                 <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>May 2022</b></td>
@@ -128,15 +128,15 @@ sections:
               </tr>
               <tr>
                 <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Jan 2020</b></td>
-                <td style="padding: 6px 0;">Our highlight paper titled "<i>Attention-based Sketch Recognition using Transformers</i>" was accepted at ECAI 2020.</td>
+                <td style="padding: 6px 0;">First-author highlight paper titled "<i>Attention-based Sketch Recognition using Transformers</i>" accepted at ECAI 2020.</td>
               </tr>
               <tr>
                 <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Dec 2019</b></td>
-                <td style="padding: 6px 0;">Our short paper titled "<i>Utilizing Temporal Psycholinguistic Cues for Suicidal Intent Estimation</i>" was accepted at ECIR 2020.</td>
+                <td style="padding: 6px 0;">First-author short paper titled "<i>Utilizing Temporal Psycholinguistic Cues for Suicidal Intent Estimation</i>" accepted at ECIR 2020.</td>
               </tr>
               <tr>
                 <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Nov 2019</b></td>
-                <td style="padding: 6px 0;">Our full paper titled "<i>Hindi-English Hate Speech Detection: Author Profiling, Debiasing, and Practical Perspectives</i>" was accepted at AAAI 2020.</td>
+                <td style="padding: 6px 0;">First-author paper titled "<i>Hindi-English Hate Speech Detection: Author Profiling, Debiasing, and Practical Perspectives</i>" accepted at AAAI 2020.</td>
               </tr>
               <tr>
                 <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Aug 2019</b></td>
@@ -173,6 +173,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Student Researcher
+          company: Google Research
+          company_url: 'https://research.google/'
+          company_logo: goog
+          location: Mountain View, CA
+          date_start: '2026-05-18'
+          date_end: '2026-08-07'
+          description: Working on efficient inference in Large Language Models.
         - title: Computer Vision Research Intern
           company: Sony R&D
           company_url: 'https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/'

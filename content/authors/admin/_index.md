@@ -17,12 +17,14 @@ last_name: Chopra
 superuser: true
 
 # Role/position/tagline
-role: CS Ph.D. Student
+role: CS Ph.D. Student | Student Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Georgia Institute of Technology
     url: https://www.gatech.edu/ 
+  - name: Google Research
+    url: https://research.google/ 
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. candidate in Computer Science at Georgia Institute of Technology
@@ -122,7 +124,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. student in Computer Science at the Robotics Perception and Learning Lab (RIPL), [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Prof. Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). My research focuses on theoretical machine learning and computer vision, with an emphasis on enhancing the adaptability and generalization capabilities of foundation models.
+I am a Ph.D. student in Computer Science at the Robotics Perception and Learning Lab (RIPL), [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Prof. Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). My doctoral research focuses on theoretical machine learning and computer vision, with an emphasis on enhancing the adaptability and generalization capabilities of foundation models. Alongside my doctoral studies, I am also working as a Student Researcher at [Google Research, Mountain View](https://research.google/) where my research focuses on efficient inference in Large Language Models.
 
 Prior to this, I completed a Masters by Research in Computer Science at Georgia Tech, where my thesis explored efficient and robust fine-tuning of Vision-Language Models. During my Master's program, I also gained industry experience as a Computer Vision Research Intern at the [Sony R&D Center, Switzerland](https://www.sony.com/en/SonyInfo/research/about/stuttgart-laboratory1/) (Fall 2023 - Spring 2024) and as an Applied Scientist Intern at [Amazon Science, Seattle](https://www.amazon.science/) (Summer 2023).
 
